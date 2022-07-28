@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 
 /* nav */
@@ -27,4 +28,20 @@ ul>li{
     padding-bottom: 0;
     color: #fff;
     text-align: center;
+}
+
+/* join now */
+.joinNow-section{
+    background-color: #289BDE;
+}
+.register-button{
+    background-color: #fff;
+    color: #289BDE;
+    padding: 13px 53px;
+}
+
+.company-container img{
+    width: 100%;
+    max-width:200px;
+    padding: 0 20px;
 }
