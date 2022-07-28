@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700;900&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* nav */
+ul>li{
+    margin: 0 20px;
+}
+
+/* hero */
+.hero-crs > div img {
+    height: 100%;
+    max-height: 516px;
+}
+
+.hero-crs-caption {
+    height: 100%;
+    width: 100%;
+    background-color: #00000083;
+    position: absolute;
+    right: 0;
+    bottom: 0.25rem;
+    left: 0;
+    padding-top:0;
+    padding-bottom: 0;
+    color: #fff;
+    text-align: center;
+}
