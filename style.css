@@ -45,3 +45,8 @@ ul>li{
     max-width:200px;
     padding: 0 20px;
 }
+
+/* footer */
+footer{
+    background-color: #161616;
+}
